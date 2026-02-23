@@ -1,5 +1,12 @@
 # neuro-bridge-engine-59
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/neuro-bridge-engine-59/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/neuro-bridge-engine-59/actions)
+![License](https://img.shields.io/github/license/yksanjo/neuro-bridge-engine-59)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/neuro-bridge-engine-59)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/neuro-bridge-engine-59)
+
 ## Detailed Description
 
 neuro-bridge-engine-59 is maintained as an industry-grade software project with production-ready engineering practices.  
